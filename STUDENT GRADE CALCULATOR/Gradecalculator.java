@@ -35,7 +35,7 @@ public class Gradecalculator implements ActionListener {
         l3.setBounds(10, 50, 80, 30);
         l4.setBounds(250, 120, 80, 30);
         l5.setBounds(35, 120, 100, 30);
-        l8.setBounds(20, 300, 150, 30);
+        l8.setBounds(20, 300, 150, 30); 
         l7.setBounds(20, 320, 150, 30);
         l6.setBounds(20, 340, 100, 30);
         l9.setBounds(20, 300, 100, 30);
